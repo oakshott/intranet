@@ -1,0 +1,184 @@
+<!--KB88280 fix:changed the casing of the extension from .HTM to .htm -->
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <title>Absence Cover Summary</title>
+
+<SCRIPT LANGUAGE = "JavaScript">
+<!-- Start Cloaking
+
+var BannerHeading    = ''
+var WelcomeText1     = ''
+var WelcomeText2     = 'Select a date from the list on the left...'
+var backgroundcolour = '#FFFFFF'
+
+var today     = new Date()
+var nextweek  = new Date()
+var prevweek  = new Date()
+var localname = location.pathname
+var iconname  = 'school_logo.jpeg'
+var currweekpage  = ""
+var prevweekpage  = ""
+var nextweekpage  = ""
+var currentDate	  = new Date()
+
+//------------------------------------------------------
+function GetTheDate()
+{
+	date=location.search
+	if (date.length >= 8)
+	{
+		d = date.substr(1,2)
+		m = date.substr(3,2)-1
+		y = date.substr(5,4)
+		today.setMonth(m,d)
+		today.setFullYear(y)
+	}
+}
+
+//------------------------------------------------------
+function DoTheWelcome()
+{
+	document.write('<body BGCOLOR='+backgroundcolour+'>')
+	document.write('<font color="#000000"><font size=+1>'+WelcomeText2+'</font></font></center>')
+	document.write('</body>')
+	return '';
+}
+
+//------------------------------------------------------
+function DoTheBanner()
+{
+	document.write('<body bgcolor='+backgroundcolour+' link="#3333FF" vlink="#3333FF"><font size=-1>')
+	document.write('<TABLE WIDTH="100%" boarder="0"><tr><td WIDTH="400">')
+	document.write('<img SRC="'+iconname+'" height=80 width=60>')
+	document.write('</td></tr>')
+	document.write('</TABLE>')
+    // RI KB82116 added return false below
+	document.write('<table width="100%" border="0" cellpadding="5" cellspacing="5" bgcolor="#d3dbf6">') 
+	document.write('<tr><td width="75%">')
+	document.write('<a href="#" onClick="ChangeWeek(0);return false">Back to view Current Week</a>');
+	document.write('</td><td width="25%"><div align="right">')
+	document.write('<a href="#" onClick="ChangeWeek(-1);return false"> Previous Week </a>')
+	document.write('&nbsp;&nbsp;&nbsp;')
+	document.write('<a href="#" onClick="ChangeWeek(1);return false"> Next Week</a>'); 
+	document.write('</td></tr></table>')
+	document.write('</font></body>')
+	return'';
+}
+
+//------------------------------------------------------
+function DoTheFrame()
+{
+	document.write('<Table Border=0 Width=100% Cellspacing=0 Cellpadding=0 BGCOLOR='+backgroundcolour+'>'); 
+	document.write('<TR><TD>');
+	document.write(DoTheWelcome());
+	document.write('</TD></TR>');
+	document.write('<TR><TD>');
+	document.write(DoTheBanner());
+	document.write('</TD></TR>');
+	document.write('<TR><TD>');
+	document.write(DoTheList());
+	document.write('</TD></TR>');
+	document.write('<Table>');
+	return;
+}
+
+//------------------------------------------------------
+function DoTheList()
+{
+	document.write('<body bgcolor='+backgroundcolour+' link="#3333FF" vlink="#3333FF">')
+	if (screen.height < 750) {document.write('<FONT SIZE =-1>')}
+	GetTheDate()
+	today.setTime(today.getTime() - (today.getDay() * 24 * 60 * 60 * 1000))
+	nextweek.setTime(today.getTime() + (7 * 24 * 60 * 60 * 1000))
+	prevweek.setTime(today.getTime() - (7 * 24 * 60 * 60 * 1000))
+	for (var i = 0; i < 7; i++)
+	{
+		today.setTime(today.getTime() + (24 * 60 * 60 * 1000))
+		document.write('<a href='+MakeFileName(today)+'? target="_self">'+MakeLinkDescr(today)+'</a>');
+		//document.write('<a href='+MakeFileName(today)+'>'+MakeLinkDescr(today)+'</a>');
+		document.write('<br><br>');
+	}
+	prevweekpage=MakeDateParam(prevweek)
+	nextweekpage=MakeDateParam(nextweek)
+	//currweekpage=localname
+	currweekpage=MakeDateParam(currentDate)
+	
+	if (screen.height < 750) {document.write('</FONT>')}
+	document.write('</FONT></body>');
+	
+	return '';
+}
+
+//------------------------------------------------------
+function ChangeWeek(n)
+{
+	switch (n)
+	{
+		case -1 : if (prevweekpage>"") {window.navigate(prevweekpage); break}
+		case  0 : if (currweekpage>"") {window.navigate(currweekpage); break}
+		case  1 : if (nextweekpage>"") {window.navigate(nextweekpage); break}
+	}
+}
+//------------------------------------------------------
+
+function MakeDateParam(date)
+{
+	d1 = date.getDate()
+	if (d1 < 10) {d1='0'+d1}
+	d2 = date.getMonth()+1
+	if (d2 < 10) {d2='0'+d2}
+	d3 = date.getFullYear()
+	return '?'+d1+d2+d3
+}
+//------------------------------------------------------
+
+function MakeFileName(date)
+{
+	d1 = date.getDate()
+	if (d1 < 10) {d1='0'+d1}
+	d2 = date.getMonth()+1
+	if (d2 < 10) {d2='0'+d2}
+	d3 = date.getFullYear()%100
+	if (d3 < 10) {d3='0'+d3}  
+	return 'CV'+d1+d2+d3+'.htm' // KB88280 fix:changed the casing of the extension from .HTM to .htm
+}
+//------------------------------------------------------
+
+function MakeLinkDescr(date)
+{
+	n=date.getDay();
+	d=date.getDate();
+	m=date.getMonth();
+	y=date.getYear();
+	s = "";
+	if (n==0) s = "Sunday";
+	if (n==1) s = "Monday";
+	if (n==2) s = "Tuesday";
+	if (n==3) s = "Wednesday";
+	if (n==4) s = "Thursday";
+	if (n==5) s = "Friday";
+	if (n==6) s = "Saturday";
+	months = "JanFebMarAprMayJunJulAugSepOctNovDec"
+	s += ('<br>'+d + ' ' + months.substr(m*3,3) + ' ' + y);
+	return s
+}
+//------------------------------------------------------
+
+// End Cloaking -->
+
+</SCRIPT>
+</head>
+
+<SCRIPT LANGUAGE = "JavaScript">
+DoTheFrame();
+</SCRIPT>
+<NOSCRIPT>
+This page requires JavaScript.
+<br><br>
+<a href=COVER_NS.htm>Click here</a>&nbsp
+to view Absence Cover index for current week
+<br><!--KB88280 fix:changed the casing of the extension from .HTM to .htm-->
+</NOSCRIPT>
+</html>

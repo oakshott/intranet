@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c2702c-2ace-4b6c-b5e8-190dc3a1c1ee" name="Default" comment="">
+      <change type="DELETED" beforePath="G:\Projects\app\OnSiteCourse.php" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\database\migrations\2015_03_27_104014_CreateOnSiteCoursesTable.php" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\database\migrations\2015_03_27_104049_create_on_site_courses_table.php" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\COVER 27 MARCH 15.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Messages.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Messages.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Messages_files\image001.jpg" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\8th Becember.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\8th March 2012.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Bulletin 21 Nov 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 01 OCT 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 02 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 03 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 04 OCT 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 04 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 04 SEPTEMBER.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 04 feb.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 05 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 06 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 06 FEB 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 06 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 06 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 07 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 07 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 08 FEB.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 08 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 08 MARCH.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 08 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 08 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 1 FEB.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 10 JAN 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 10 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 10 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 10 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 11 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 11 FEB 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 11 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 11 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 12 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 13 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 13 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 13 SEPTEMBER.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 13NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 13TH JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 14 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 14 JAN 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 15 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 15 JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 15 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 16 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 16 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 17 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 17 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 17 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 17 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 18 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 18 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 18 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 18 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 19 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 19 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 19 JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 19 NOV 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 19 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 20 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 20 DEC.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 20 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 20 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 21 DECEMBER.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 21 Jan 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 21ST MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 22 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 22 JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 22 NOV 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 22 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 22 may 2012.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 23 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 24 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 25 MARCH.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 25 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 25 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 26 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 26 JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 26 NOV 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 26 NOV.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 27 APRIL.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 27 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 28 JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 28 Jan 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 28 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 29 JAN.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 29 MAY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 3 SEPT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 30 MARCH.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 4 JULY 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 5 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 6 SEP.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 7 JUNE 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER 9 OCT.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER JULY 18.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER NOV 25 .htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\COVER29JUNE.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover  4 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 01 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 04  Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 04 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 05 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 06 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 07 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 07 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 1 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 1 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Dec 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Dec 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Feb 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 10 Oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Feb 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 June 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Nov 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 11 Oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 Dec 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 July 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 Nov.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 12 oct.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 13 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 13 Jul 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 13 Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 13 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 13 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 July11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 Oct  11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 14 Sept 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 15 July 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 15 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 15 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 15 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 15 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 April 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 Jan 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16 jan.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 16th December.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 17 Dec.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 17 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 17 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 17 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 17 Oct.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 18 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 18 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 18 June 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 18 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 19 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 19 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 19 Oct11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 2  Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 2 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 2 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 2 Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 20 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 20 June 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 20 Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 20 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 20th Feb 2012.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 Jan 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 Oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 june.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 21 sept.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 22 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 22 Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 22 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 22 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 April 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 March 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 23 oct.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 24 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 24 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 24 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 25 April 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 25 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 25 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 26  April 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 26 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 26 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 27 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 27 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 27 June 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 27 March.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 27 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 28 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 28 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 28 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 28 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 29 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 29 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 29 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 2nd November 2011.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 3 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 3 Feb 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 3 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 3 Oct 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 30 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 30 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 30 Sept 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 30 Sept 2011.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 31 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 31 Oct 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 31.01.14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 4 Dec 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 4 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 5 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 5 March  12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 5 dec 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 5 jul 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6  Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6 Dec 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 6July 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 Feb 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 July 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 Mar 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 Oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 7 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 8 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 8 J ul 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 8 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 8 oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9  Sept 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Dec 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Feb 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Jan 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 July 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 March.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 May 12.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Nov 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Oct 13.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 Sept 11.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Cover 9 dec.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\DAILY MESSAGES.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\End of year Assemblies 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Friday 13th Jan.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Staff Duties April 14.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Staff Duties September 2013.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\Apps (P) - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\COVER 19 JULY.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\COVER7.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\COVER7_NS.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\Daily Messages.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\HOY Messages.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\Internal Year 7 Exams.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\Staff Duties May 2013.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\old\COVER7_NS.old.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\old\CV050314.old.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\old\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\old\school_logo.old.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\T1\school_logo.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Tue 7 Jan 14.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Old\Tuesday 20th September.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Staff Duties Sep 14.docx" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\T1\COVER7_NS.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\T1\CV230315.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\T1\CV260315.htm" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\T1\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\T1\school_logo.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\18 October 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 1 Feb 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 1 Mar 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 1 Mar 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 1 Nov 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 10 May 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 11 Jan 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 11 Jan 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 11 Oct 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 12 July 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 12 July 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 13 Sept 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 13 Sept 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 Dec 09.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 Feb 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 Feb 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 June 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 June 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 March 11.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 14 March 11.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 15 Mar 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 15 Mar 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 17 May 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 17 May 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 18 Jan 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 18 Jan 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 18 Oct 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 19 Apr 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 19 July 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 19 July 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 20 Sept 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 20 Sept 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 21 June 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 21 June 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 22 Feb 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 22 Feb 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 22 Mar 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 22 Mar 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 24 May 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 24 May 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 25 Jan 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 25 Jan 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 26 Aprl 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 26 Aprl 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 27 Sept 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 27 Sept 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 28 June 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 28 June 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 29 Mar 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 29 Mar 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 29 March 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 3 May 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 3 May 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 30 Aug 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 30 Aug 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 4 Jan 10 v2.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 4 Jan 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 4 Oct 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 4 Oct 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 5 July 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 5 July 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 6 June 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 6 Sept 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 6 Sept 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 February 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 February 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 June 2010.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 June 2010.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 Mar 11.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 7 Mar 11.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Feb 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Feb 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Mar 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Mar 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Nov 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Bulletin 8 Nov 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2010\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\BUlletin 6 Dec 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin  4 July 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 06 Dec 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 10 January 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 11 July 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 13 June 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 15 Nov 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 16 May 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 16 May 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 17 January 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 17 January 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 18 jul 11.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 2 May 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 2 May 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 20 June 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 21 Mar 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 21 Mar 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 22 nov.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 23 May 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 23 May 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 24 January 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 24 January 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 25 April 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 25 April 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 27 Jun 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 28 Feb 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 28 Mar 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 29 nov 10.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 29 nov 10.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 31 January 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 31 January 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 4 April 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 4 April 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 4 January 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 9 May 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Bulletin 9 May 2011.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2011\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 10 Oct 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 11 June 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 11 June 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 12 Dec 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 12 March 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 14 May 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 14 May 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 14 Nov 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 16 April 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 16 April 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 16 January 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 16 July 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 16 July 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 17 Oct 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 18 June 12.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 18 June 12.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 19 March 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 19 March 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 2 Jan 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 2 July 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 20 February 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 20 February 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 21 May 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 21 May 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 21 Nov 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 23 April 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 23 April 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 23 January 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 23 January 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 25 June 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 25 June 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 26 March 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 26 March 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 26 Sept 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 27 February 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 27 February 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 28 May 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 28 Nov 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 3 October 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 3 Sept 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 30 April 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 30 April 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 30 January 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 30 January 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 31 October 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 5 Dec 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 5 March 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 5 March 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 6 February 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 6 February 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 7 May 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 7 May 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 7 Nov 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 9 Jan 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 9 July 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin 9 July 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\2012\Bulletin Skeleton.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Archive\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 July 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 July 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 July 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 Oct 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 Oct 2012.doc.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 1 Oct 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 Dec 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 Dec 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 February 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 February 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 June 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 June 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 June 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 March 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 Sept 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 10 Sept 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 February 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 February 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 March 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 March 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 November 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 11 November 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 12 Nov 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 12 Nov 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 13 January 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 13 January 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 13 May 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 13 May 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 14 Jan 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 14 Jan 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 14 October 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 14 October 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 April 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 April 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 July 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 July 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 July 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 Oct 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 15 Oct 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 16 December 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 16 December 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 16 September 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 16 September 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 Dec 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 Dec 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 June 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 June 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 June 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 March 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 Sept 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 17 Sept 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 18 March 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 18 March 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 18 November 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 18 November 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 19 Nov 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 19 Nov 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 2 December 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 2 December 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 2 September 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 2 September 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 20 January 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 20 January 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 20 May 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 20 May 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 21 January 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 21 January 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 21 October 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 21 October 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 22 April 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 22 April 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 22 April 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 22October 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 22October 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 23 September 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 23 September 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 February 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 June 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 June 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 June 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 March 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 Sept 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 24 Sept 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 February 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 February 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 February 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 March 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 March 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 November 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 25 November 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 26 November 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 26 November 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 27 January 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 27 January 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 28 January 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 28 January 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 29 April 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 29 April 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 Dec 2012 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 Dec 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 Dec 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 February 2014 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 February 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 February 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 June 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 June 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 3 March 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 30 September 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 30 September 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 Feb 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 Feb 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 Mar 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 Mar 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 Mar 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 November 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 4 November 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 5 Nov  2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 5 Nov  2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 6 January 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 6 January 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 6 May 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 6 May 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 7 Jan 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 7 Jan 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 7 October 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 7 October 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 8 July 2013 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 8 July 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 8 July 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 8 October 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 8 October 2012.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 9 December 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 9 December 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 9 Sept 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Bulletin 9 Sept 2013.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\September 2011\Bulletin 12 Sept 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\September 2011\Bulletin 19 September 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\September 2011\Bulletin 5 Sept 2011.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 1 December 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 1 Sept 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 10 November 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 12 January 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 12 May 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 13 April 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 13 October 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 14 July 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 15 December 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 15 September 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 16 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 16 March 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 17 November 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 19 January 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 19 May 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 February 2015 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 February 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 February 2015.doc.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 February 2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 June 2014.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 2 March 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 20 October 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 21 April 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 22 September 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 23 February 2015 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 23 February 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 23 February 2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 23 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 23 March 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 24 November 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 26 January 2015 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 26 January 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 26 January 2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 28 April 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 29 September 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 3 November 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 30 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 31.03.14 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 31.03.14.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 31.03.14.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 5 January 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 5 May 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 6 October 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 7 July 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 8 December 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 8 Sept 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 9 February 2015 - Shortcut.lnk" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 9 February 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 9 February 2015.pdf" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 9 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Staff Bulletin 9 March 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$aff Bulletin 1 Sept 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$aff Bulletin 19 January 2015.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$aff Bulletin 30 June 2014.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$lletin 14 October 2013.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$lletin 17 Sept 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$lletin 22October 2012.doc" afterPath="" />
+      <change type="DELETED" beforePath="G:\Projects\public\messages\bulletin\~$lletin 9 December 2013.doc" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/images/Thumbs.db" afterPath="$PROJECT_DIR$/public/images/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" afterPath="$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/migrations/2015_02_26_123218_create_course_table.php" afterPath="$PROJECT_DIR$/database/migrations/2015_02_26_123218_create_course_table.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Course.php" afterPath="$PROJECT_DIR$/app/Course.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" afterPath="$PROJECT_DIR$/database/seeds/DatabaseSeeder.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotUser.php" afterPath="$PROJECT_DIR$/app/Http/Middleware/RedirectIfNotUser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/User.php" afterPath="$PROJECT_DIR$/app/User.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/WelcomeController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/adminController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/adminController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/coursesController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/coursesController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/users/edit.blade.php" afterPath="$PROJECT_DIR$/resources/views/users/edit.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/images/fi-book.svg" afterPath="$PROJECT_DIR$/public/assets/img/images/fi-book.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/images/fi-home.svg" afterPath="$PROJECT_DIR$/public/assets/img/images/fi-home.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/assets/img/images/fi-torso.svg" afterPath="$PROJECT_DIR$/public/assets/img/images/fi-torso.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/home/index.blade.php" afterPath="$PROJECT_DIR$/resources/views/home/index.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/admin/menu.blade.php" afterPath="$PROJECT_DIR$/resources/views/admin/menu.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/css/mystyles.css" afterPath="$PROJECT_DIR$/public/css/mystyles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/courses/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/courses/show.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/users/show.blade.php" afterPath="$PROJECT_DIR$/resources/views/users/show.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/forms/user.blade.php" afterPath="$PROJECT_DIR$/resources/views/forms/user.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/Controllers/usersController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/usersController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" />
+    </list>
+    <ignored path="Projects.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Projects" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HomeController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="4669">
+              <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coursesController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coursesController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="2088" max-vertical-offset="5655">
+              <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="menu.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/menu.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.08987603" vertical-offset="0" max-vertical-offset="968">
+              <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+              <folding>
+                <element signature="n#ul#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#li#0;n#ul#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#section#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#li#2;n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Http/Controllers/coursesController.php" />
+        <option value="$PROJECT_DIR$/resources/views/menu.blade.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/menu.blade.php" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c2702c-2ace-4b6c-b5e8-190dc3a1c1ee" name="Default" comment="" />
+      <created>1428586392727</created>
+      <option name="number" value="Default" />
+      <updated>1428586392727</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.14791666" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="4669">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coursesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5655">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="406" max-vertical-offset="4205">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coursesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5278">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1875" max-vertical-offset="2755">
+          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coursesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1121" max-vertical-offset="3458">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="899" max-vertical-offset="4669">
+          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/coursesController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2088" max-vertical-offset="5655">
+          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/menu.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.08987603" vertical-offset="0" max-vertical-offset="968">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+          <folding>
+            <element signature="n#ul#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#li#0;n#ul#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#section#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#li#2;n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#li#0;n#ul#0;n#section#0;n#nav#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
