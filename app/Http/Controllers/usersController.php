@@ -145,7 +145,7 @@ class usersController extends Controller {
 
 			$exists = User::where('email','=',$row->email)->first();
 			
-			if($exists = null){
+			if($exists == null){
 				USER::create([
 				'firstName' => $row->firstname,
 				'lastName' => $row->lastname,

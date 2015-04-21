@@ -25,6 +25,8 @@
  								<table id="courseAdminData" class="table table-hover table-condensed">
 		    						<thead>
 		        							<tr>
+		        								<th class="col-md-3">{!! Lang::get('First Name') !!}</th>
+		        								<th class="col-md-3">{!! Lang::get('Last Name') !!}</th>
 									            <th class="col-md-3">{!! Lang::get('Course Name') !!}</th>
 									            <th class="col-md-3">{!! Lang::get('Course Date') !!}</th>
 									            <th class="col-md-3">{{{ Lang::get('Approval Status') }}}</th>
@@ -66,6 +68,8 @@ $(document).ready(function() {
         "ajax": "/home/courseAdminData",
         "deferRender":true,
         "columns": [
+        	{data:'firstName', name:'firstName'},
+        	{data:'lastName', name:'lastName'},
             {data: 'courseTitle', name: 'courseTitle'},
             {data: 'startDate', name: 'startDate'},
             {data: 'approved', name: 'approved'},
