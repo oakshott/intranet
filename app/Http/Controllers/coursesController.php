@@ -68,11 +68,11 @@ class coursesController extends Controller {
 			$data = array( 'email'=>$linemanageremail, 'toName'=>$linemanagername, 'firstName' => Auth::user()
                 ->firstName, 'lastName' => Auth::user()->lastName, 'courseName' => $input['courseTitle']);
 
-		//Mail::send('emails.newapplication', $data, function($message) use ($data)
-		//{
+		Mail::send('emails.newapplication', $data, function($message) use ($data)
+		{
 			
-    	//	$message->to($data['email'], $data['toName'])->subject('New Course Application');
-		//});
+    		$message->to($data['email'], $data['toName'])->subject('New Course Application');
+		});
 
 		flash()->success('Your course has been added successfully');
 
