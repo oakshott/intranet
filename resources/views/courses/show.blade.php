@@ -22,12 +22,17 @@
 						<span><strong>Travel Fees: </strong>£{{$course->travelFees}}</span></p>
 						<span><strong>Deadline: </strong>{{$course->deadline->format('d/m/y')}}</span></p>
 						<span><strong>How will this raise standards at Beauchamps High School: </strong></br>{{$course->standards}}</span></p>
+						@if(!empty($review->review))
+						<span><strong>Course Review: </strong></br>{{$review->review}}</span></p>
+						@endif
 						@if(!empty($course->lineManagerComments))
 						<span><strong>Linemanager Comments: </strong></br>{{$course->lineManagerComments}}</span></p>
 						@endif
 						@if(!empty($course->courseAdminComments))
 						<span><strong>Course Admin Comments: </strong></br>{{$course->courseAdminComments}}</span></p>
 					    @endif
+					    
+			
 
 
 
@@ -68,10 +73,10 @@
 				<div class="panel-heading"><h3>Course Review</h3></div>
 					<div class="panel-body">
 						<hr>
-							{!! Form::open(array('action'=>'coursesController@courseAdminComments')) !!}
-							@include('forms.courseAdminComments')
+							{!! Form::open(array('action'=>'coursesController@courseReview')) !!}
+							@include('forms.courseReview')
         					<div class="form-group">
-           						 {!!Form::submit('Update Course', ['class'=>'button form-control'])!!}
+           						 {!!Form::submit('Submit Review', ['class'=>'button form-control'])!!}
           					</div>
         				{!! Form::close() !!}
 					</div>

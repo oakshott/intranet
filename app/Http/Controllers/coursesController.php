@@ -5,6 +5,7 @@ use App\Http\Controllers\Controller;
 use App\Course;
 use Auth;
 use App\User;
+use App\Review;
 use Request;
 use Carbon\Carbon;
 use Mail;
@@ -94,9 +95,13 @@ class coursesController extends Controller {
 
 		$today = carbon::now();
 
+		$exists = Review::where('id','=',$id)->first();
+
 		$reviewableDate = $course->endDate->addDays(5);
 
-		if ($today > $reviewableDate){
+		$review = course::find($id)->review;
+
+		if ($today > $reviewableDate AND $exists == null){
 			$reviewable = '1';
 		}
 		else
@@ -117,7 +122,8 @@ class coursesController extends Controller {
 		return view('courses.show')
 			   ->with('course',$course)
 			   ->with('reviewable',$reviewable)
-			   ->with('coursesOnDate',$coursesOnDate);
+			   ->with('coursesOnDate',$coursesOnDate)
+			   ->with('review',$review);
 	}
 
 	/**
@@ -196,6 +202,23 @@ class coursesController extends Controller {
 
 		Return Redirect('home');
 		
+	}
+
+	public function courseReview(Requests\CreateReviewRequest $request)
+	{
+		$id = Request::input('id');
+
+		$course = course::findOrFail($id);
+
+		$review = new Review($request->all());
+
+		$review['course_id'] = $id;
+
+		$course->review()->save($review);
+
+		flash()->success('Review submitted successfully');
+
+		Return Redirect('home');
 	}
 	
 	/**

@@ -11,7 +11,7 @@
 						<div class="row">
 							<div class="large-12 columns">
 								{!!Form::label('Approve:')!!}
-								{!!Form::select('lineManagerApproved', array('Approved' => 'Approved', 'Unapproved' => 'Unapproved'))!!}
+								{!!Form::select('lineManagerApproved', array('Approved' => 'Approved', 'Rejected' => 'Rejected'))!!}
 							</div>
 						</div>
 	</div>

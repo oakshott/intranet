@@ -50,6 +50,8 @@ Route::post('courses/update','coursesController@lineManagerComments');
 
 Route::post('courses/adminUpdate','coursesController@courseAdminComments');
 
+Route::post('courses/courseReview','coursesController@courseReview');
+
 Route::get('courses/{id}/edit',['middleware' =>'user', 'uses'=> 'coursesController@edit']);
 
 Route::get('courses/{id}',['middleware' =>'user', 'uses'=> 'coursesController@show']);

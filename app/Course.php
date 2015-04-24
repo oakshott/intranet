@@ -43,7 +43,10 @@ class Course extends Model {
 		$query->where('lineManager','=',Auth::User()->id)->where('lineManagerApproved','=','unapproved');
 	}
 
-	
+	public function review()
+	{
+		 return $this->hasOne('App\Review');
+	}
 
 	
 
