@@ -172,6 +172,8 @@ class coursesController extends Controller {
 
 		$course->update($request->all());
 
+		flash()->success('Comments submitted successfully');
+
 		$data = array( 'email'=>'cpdadmin@beauchamps.essex.sch.uk', 'toName'=>'Admin', 'firstName' => Auth::user()->firstName, 'lastName' => Auth::user()->lastName, 'courseName' => $course['courseTitle']);
 
 		//Mail::send('emails.linemanagercomments', $data, function($message) use ($data)
@@ -191,6 +193,8 @@ class coursesController extends Controller {
 		$course = Course::findOrFail($id);
 
 	    $course->update($request->all());
+
+	    flash()->success('Comments submitted successfully');
 
 		$data = array( 'email'=>'cpdadmin@beauchamps.essex.sch.uk', 'toName'=>'Admin', 'firstName' => Auth::user()->firstName, 'lastName' => Auth::user()->lastName, 'courseName' => $course['courseTitle']);
 

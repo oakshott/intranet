@@ -43,7 +43,7 @@
 	</div>
 </div>
 
-@if($course->lineManager == Auth::User()->id)
+@if($course->lineManager == Auth::User()->id AND $course->lineManagerComments == null)
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
@@ -65,7 +65,7 @@
 
 @endif
 
-@if($reviewable == '1')
+@if($reviewable == '1' AND  $course->approved == 'Approved')
 <div class="container-fluid">
 	<div class="row">
 		<div class="col-md-8 col-md-offset-2">
